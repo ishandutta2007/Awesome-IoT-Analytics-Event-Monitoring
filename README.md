@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IoT-Analytics-Event-Monitoring/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -77,9 +77,9 @@ The table below lists the industry's leading hosted IoT analytics, telemetry, an
 
 ### 📊 Master Open-Source Comparison (Sorted by Stars)
 
-The table below compiles leading open-source repositories powering modern IoT analytics, device telemetry, and event processing. **Sorted in descending order by GitHub stars count**, with real-time badges linking to stargazers.
+The table below compiles leading open-source repositories powering modern IoT analytics, device telemetry, and event processing. **Sorted in descending order by GitHub_Stars_Count**, with real-time badges linking to stargazers.
 
-| 📦 Project & Live Badge | ⭐ Stars | 🎯 Category / Focus | 💻 Stack | 📜 License | 🔍 Summary & Key Capabilities |
+| 📦 Project & Live Badge | ⭐ GitHub_Stars | 🎯 Category / Focus | 💻 Stack | 📜 License | 🔍 Summary & Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Home Assistant](https://github.com/home-assistant/core)** [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | **91,400+** | Home & Facility Automation | Python | Apache-2.0 | World's largest open-source automation engine with 2,500+ device integrations, local event loops, and live dashboards. |
 | **[Grafana](https://github.com/grafana/grafana)** [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | **77,200+** | Visualization & Alerting | Go, TypeScript | AGPL-3.0 | The de facto dashboarding platform for IoT telemetry; native support for InfluxDB, Prometheus, TimescaleDB, and QuestDB. |
@@ -242,7 +242,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, comprehens
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-iot-tool`.
 3. ✏️ **Add your entry** under the appropriate section following the existing table or list format:
-   - Provide name, official link, GitHub repository with star badge (if open-source), language stack, license, and factual 1–2 sentence description.
+   - Provide name, official link, GitHub repository with Stars_Badge (if open-source), language stack, license, and factual 1–2 sentence description.
    - For SaaS tools, specify the exact starting tier pricing and specific free trial/free tier limits.
 4. 🚀 **Commit your changes**: `git commit -m "Add NewTool to open-source IoT analytics"`.
 5. 📬 **Submit a Pull Request** with a brief summary of the project.
